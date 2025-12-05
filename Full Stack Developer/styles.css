@@ -1,0 +1,56 @@
+body{
+    background-image: url('https://images.ctfassets.net/hrltx12pl8hq/28ECAQiPJZ78hxatLTa7Ts/2f695d869736ae3b0de3e56ceaca3958/free-nature-images.jpg?fit=fill&w=1200&h=630');
+     background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100px;
+    text-align: center;
+    font-size: 30px;
+    
+
+}
+h2{
+margin-top: 10px;
+}
+h3{
+    font-size: 100px;
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+#increment-btn:hover{
+    background-color: gold;
+    color:black;
+    transition: 0.7s;
+}
+  
+
+div button{
+    width:150px;
+    height: 50px;
+    display: block;
+    font-size: 20px;
+    text-align:center;
+    margin: 10px auto;
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+#save-btn{
+    background-color: green;
+}
+
+#save-btn:active{
+    background-color: gold;
+    color:black;
+    transition: 0.5s;
+}
+
+#save-btn:hover{
+    background-color: white;
+    color:black;
+    transition: 0.5s;
+}
+
